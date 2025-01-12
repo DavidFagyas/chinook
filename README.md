@@ -24,6 +24,10 @@ Surové dáta sú usporiadané v relačnom modeli, ktorý je znázornený na ent
 
 Relačný model zobrazuje, ako sú tieto entity prepojené cez primárne a cudzie kľúče, čím umožňuje efektívne vyhľadávanie, manipuláciu a analýzu dát. ERD diagram je základným nástrojom na pochopenie štruktúry databázy a vzorcov dát, ktoré sa používajú na analytické účely.
 
-![ERD Diagram](./images/erd_diagram.png)
+<p align="center">
+  <img src="https://github.com/JKabathova/AmazonBooks-ETL/blob/master/erd_schema.png" alt="ERD Schema">
+  <br>
+  <em>Obrázok 1 Entitno-relačná schéma AmazonBooks</em>
+</p>
 
 
